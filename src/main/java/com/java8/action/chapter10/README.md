@@ -1,0 +1,18 @@
+### 第 10 章 用 Optional 取代 null ###
+#### 本章目录 ####
+1	[如何为缺失的值建模](Course1.java)   
+1.1	[采用防御式检查减少Null-PointerException](Course11.java)   
+1.2	[null带来的种种问题](Course12.java)   
+1.3	[其他语言中null的替代品](Course13.java)   
+2	[Optional类入门](Course2.java)   
+3	[应用Optional的几种模式](Course3.java)   
+3.1	[创建Optional对象](Course31.java)   
+3.2	[使用map从Optional对象中提取和转换值](Course32.java)   
+3.3	[使用flatMap链接Optional对象](Course33.java)   
+3.4	[默认行为及解引用Optional对象](Course34.java)   
+3.5	[两个Optional对象的组合](Course35.java)   
+3.6	[使用filter剔除特定的值](Course36.java)   
+4	[使用Optional的实战示例](Course4.java)   
+4.1	[用Optional封装可能为null的值](Course41.java)   
+4.2	[异常与Optional的对比](Course42.java)   
+4.3	[把所有内容整合起来](Course43.java)   

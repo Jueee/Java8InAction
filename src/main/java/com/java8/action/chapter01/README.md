@@ -1,0 +1,15 @@
+### 第 1 章 为什么要关心 Java 8 ###
+#### 本章目录 ####
+1	[Java怎么还在变](Course1.java)   
+1.1	[Java在编程语言生态系统中的位置](Course11.java)   
+1.2	[流处理](Course12.java)   
+1.3	[用行为参数化把代码传递给方法](Course13.java)   
+1.4	[并行与共享的可变数据](Course14.java)   
+1.5	[Java需要演变](Course15.java)   
+2	[Java中的函数](Course2.java)   
+2.1	[方法和Lambda作为一等公民](Course21.java)   
+2.2	[传递代码：一个例子](Course22.java)   
+2.3	[从传递方法到Lambda](Course23.java)   
+3	[流](Course3.java)   
+4	[默认方法](Course4.java)   
+5	[来自函数式编程的其他好思想](Course5.java)   
